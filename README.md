@@ -1,3 +1,4 @@
+#How to: convertir números a palabras
 En alguna ocasión trabajando en una aplicación tuve la necesidad de convertir de números a texto (1 -> uno, 2 -> dos), lo primero que pensé fue en generar el algoritmo, pero después decidí realizar una búsqueda y me encontré con el proyecto **Number 2 Letters** así que lo implemente ya que la conversión era bastante buena y salvo algunos números como el 100 no tenía errores, en el siguiente código podrán ver como solo es necesario agregar una cultura con el lenguaje que deseamos convertir y el formato "**L**"
 
 ```language-csharp
